@@ -8,7 +8,7 @@ In this project we classify movie reviews according to the rank that a user gave
 
 ## Task
 
-Based on a movie review assign it to 1,2,..., 10 according to the grade that the person gave to the movie. It can be seen as a variation of sentiment analysis. The current state of the art average accuracy for this model ≃ 49%.
+Based on a movie review assign it to 1,2,..., 10 according to the grade that the person gave to the movie. It can be seen as a variation of sentiment analysis. The current state of the art average accuracy for this model is ≃ 49%.
 
 ## Dataset
 

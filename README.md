@@ -1,7 +1,7 @@
 # Movie review classification
 PyTorch implementation of [Hierarchical Attention](https://www.cs.cmu.edu/~./hovy/papers/16HLT-hierarchical-attention-networks.pdf) for document classification applied to movie review classification.
 
-[](cc.gif)
+![](cc.gif)
 
 ## Task
 
